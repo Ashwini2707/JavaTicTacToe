@@ -1,63 +1,3 @@
-⇧
-Javatpoint Logo
-Custom Search
-
-Home
-Java
-C
-C++
-C#
-Servlet
-JSP
-EJB
-Struts2
-Mail
-Hibernate
-Spring
-Android
-Design P
-Quiz
-Projects
-Interview Q
-Comment
-Forum
-Training
-
-Basics of Java
-OOPs Concepts
-Java String
-Java Regex
-Exception Handling
-Java Inner classes
-Java Multithreading
-Java I/O
-Java Networking
-Java AWT & Events
-Java Swing
-Swing IntroductionJava JButtonJava JLabelJava JTextFieldJava JTextAreaJava JPasswordFieldJava JCheckBoxJava JRadioButtonJava JComboBoxJava JTable Java JListJava JOptionPaneJava JScrollBarJava JMenuItem & JMenuJava JPopupMenuJava JCheckBoxMenuItemJava JSeparatorJava JProgressBarJava JTreeJava JColorChooserJava JTabbedPaneJava JSliderJava JSpinnerJava JDialogJava JPanelJava JFileChooserJava JToggleButtonJava JToolBarJava JViewportJava JFrameJava JComponentJava JLayeredPaneJava JDesktopPaneJava JEditorPaneJava JScrollPaneJava JSplitPaneJava JTextPaneJava JRootPaneUsing ToolTipChange Title IconExecutable Jar FileDigital WatchGraphics in swingDisplaying Image
-Java Swing Apps
-NotepadCalculatorIP FinderWord CounterURL Source GeneratorFolder ExplorerPuzzle GamePic Puzzle GameTic Tac Toe Game open linkOnline Exam
-LayoutManagers
-BorderLayoutGridLayoutFlowLayoutBoxLayoutCardLayoutGridBagLayoutGroupLayoutSpringLayoutScrollPaneLayout
-JavaFX
-Java Applet
-Java Reflection
-Java Date
-Java Conversion
-Java Collection
-Java JDBC
-Java New Features
-RMI
-Internationalization
-Interview Questions
-JavaTpoint 
- 
-
-next>><<prev
-Example of Tic Tac Toe Game in Swing
-In this example, we are going to see the example of tic tac toe game (also known as 0 and x (cross)).
-
-It can be developed only through AWT api, but we are using here swing framework.
 
 import java.awt.*;  
 import java.awt.event.*;  
@@ -158,7 +98,7 @@ public void complogic(int num){
 /*********************************************************/  
   
 TTT1(){  
-super("tic tac toe by ashwani");  
+super("tic tac toe by Aashwini");  
   
 CheckboxGroup cbg=new CheckboxGroup();  
 c1=new Checkbox("vs computer",cbg,false);  
